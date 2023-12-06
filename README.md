@@ -1,17 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bryan SEDSON</title>
-    <style>
-        body {
-            background-color: #f0f0f0;
-            text-align: center;
-            padding: 20px;
-        }
-
+<body>
+    <h1 id="name">Bryan SEDSON</h1>
+</body>
+<style>
         #name {
             font-size: 2em;
             color: #3498db;
@@ -27,14 +18,7 @@
                 color: #e74c3c;
             }
         }
-    </style>
-</head>
-
-<body>
-    <h1 id="name">Bryan SEDSON</h1>
-</body>
-
-</html>
+</style>
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning Kotlin,Next,React Native
