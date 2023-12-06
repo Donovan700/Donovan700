@@ -6,7 +6,6 @@ Software and Web Developer
 
 *   🖥️  See my portfolio at [Bryan SEDSON](http://bit.ly/bryan-donovan)
 *   ✉️  You can contact me at [bryanrakotosedson@gmail.com](mailto:bryanrakotosedson@gmail.com)
-*   🧠  I'm learning Kotlin,Next,Node
 *   🤝  I'm open to collaborating on Game developping or any projects
 *   ⚡  I'm Batman....Don't tell it to anyone
 *   ### Skills 
